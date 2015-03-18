@@ -1,0 +1,50 @@
+	body,html{
+	
+		width: 100%;
+		height: 100%;
+		text-align: center;
+		
+	
+	}
+	
+	.container{
+		
+		background-image: url("../image/city.png");
+		background-size: cover;
+		background-position: center;
+		height: 100%;
+		width: 100%;
+		padding-top: 150px;
+	
+	}
+	button{
+		
+		margin-top: 20px;
+		margin-bottom: 20px;
+	
+	}
+	
+	p{
+		
+		padding: 15px 0 15px 0;
+	
+	}
+	
+	.alert{
+		
+		display : none;
+		
+		}
+
+	.white{
+		
+		color:white;
+	
+	}
+
+	#backdrop{
+		background-color:rgba(0, 0, 0, 0.5);
+		border-radius: 25px;
+
+
+	}
